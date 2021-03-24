@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>Build with ❤️  by Doug Gonçalves.</p>
+    <p>Build with ❤️  by Doug Gonçalves</p>
   </footer>
 </template>
 
